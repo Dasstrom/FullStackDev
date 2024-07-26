@@ -1,27 +1,27 @@
 const product = [
     {
         id: 0,
-        image: 'https://www.phoneworld.com.pk/price/wp-content/uploads/2021/08/galaxy-z-flip_h.jpg',
-        title: 'Z Flip Foldable Mobile',
+        image: 'https://images.unsplash.com/photo-1626015279988-0246598bf89c?q=80&w=1336&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        title: 'Wine',
         price: 120,
     },
 
     {
         id: 1,
-        image: 'https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/MTJV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1694014871985',
-        title: 'Air Pods Pro',
+        image: 'https://images.unsplash.com/photo-1642643265499-f3c1385ad496?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        title: 'Wine',
         price: 60,
     },
     {
         id: 2,
-        image: 'https://www.cameraland.co.za/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/1/0/10_7.jpg',
-        title: '250D DSLR Camera',
+        image: 'https://images.unsplash.com/photo-1642643101439-902418a07cdb?q=80&w=1527&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        title: 'Wine',
         price: 230,
     },
     {
         id: 3,
-        image: 'https://m.media-amazon.com/images/I/61nuJiJelML._AC_UF1000,1000_QL80_.jpg',
-        title: 'Head Phones',
+        image: 'https://images.unsplash.com/photo-1656361281529-c6776ededefa?q=80&w=1331&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+        title: 'Wine',
         price: 100,
     }
 ];
